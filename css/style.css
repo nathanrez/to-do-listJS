@@ -81,6 +81,7 @@ main {
   margin-bottom: 15px;
   overflow: hidden;
   transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
 }
 
 .item:hover {
@@ -116,6 +117,7 @@ main {
 
 /* Botão excluir */
 .item-botao {
+  height: 100%;
   width: 100px;
 }
 
